@@ -13,7 +13,7 @@
 * 速度快、开源、保护隐私、自定义强
 
 
-### [出售英国、美国、新西兰实体 SIM 卡；GV、Gmail、Apple ID、礼品卡]([https://t.me/GVStore](https://github.com/ssnhd/sim))
+### [出售英国、美国、新西兰实体 SIM 卡、GV、Gmail、Apple ID、礼品卡](https://github.com/ssnhd/sim)
 
 [![](https://i.imgur.com/vFuRggb.jpg)](https://github.com/ssnhd/sim)
 
